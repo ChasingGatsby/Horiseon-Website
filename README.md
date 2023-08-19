@@ -14,7 +14,9 @@ To that end, I...
 While the end product functions the same as the original, performing these tasks was great practice in understanding the usefulness of semantic HTML elements and element tags. By using those effectively, I was able to cut down on a significant amount of wordage. This will make the code much simpler to examine and revise in the future, both for myself and any other future collaborators.
 
 ## Screenshots
-[Screenshots of Website](/assets/images/Horiseon1)
-[Screenshots of Website](/assets/images/Horiseon2)
+![Horiseon1](https://github.com/ChasingGatsby/w1c-code-refactor/assets/139267337/932500d8-946f-4da5-b3c1-238c894f4113)
+
+![Horiseon2](https://github.com/ChasingGatsby/w1c-code-refactor/assets/139267337/777b46a7-10d3-4b3d-8d1c-00509aa02614)
+
 
 ## Link to Deployed Website
