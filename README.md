@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 1 Challenge: Code Refactor
 
 ## Description
@@ -16,3 +17,7 @@ While the end product functions the same as the original, performing these tasks
 ## Screenshots
 
 ## Link to Deployed Website
+=======
+# Description
+Horiseon Website for Weekly Challenge
+>>>>>>> ae9382c8227676a0571db84f390b5f64ea3873a2

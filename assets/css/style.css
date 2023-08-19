@@ -86,9 +86,15 @@ p {
   color: #ffffff;
 }
 
+<<<<<<< HEAD
 /* Added to adjust benefits section to original dimensions*/
 .benefits p {
   margin-bottom: 32px;
+=======
+/* Added section to adjust benefits section to original dimensions */
+.benefits p{
+    margin-bottom: 32px
+>>>>>>> ae9382c8227676a0571db84f390b5f64ea3873a2
 }
 
 /* Consolidated sections linked to img/headers in benefits for clarity*/
