@@ -85,10 +85,12 @@ p {
   color: #ffffff;
 }
 
+/* Added section to adjust benefits section to original dimensions */
 .benefits p{
     margin-bottom: 32px
 }
 
+/* Consolidated sections linked to img/headers in benefits for clarity*/
 .benefits h3 {
   margin-bottom: 10px;
   text-align: center;
