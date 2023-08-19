@@ -14,7 +14,7 @@ To that end, I...
 While the end product functions the same as the original, performing these tasks was great practice in understanding the usefulness of semantic HTML elements and element tags. By using those effectively, I was able to cut down on a significant amount of wordage. This will make the code much simpler to examine and revise in the future, both for myself and any other future collaborators.
 
 ## Screenshots
-[Screenshots of Website](./assets/images/Horiseon1)
-[Screenshots of Website](./assets/images/Horiseon2)
+[Screenshots of Website](/assets/images/Horiseon1)
+[Screenshots of Website](/assets/images/Horiseon2)
 
 ## Link to Deployed Website
