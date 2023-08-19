@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Week 1 Challenge: Code Refactor
 
 ## Description
