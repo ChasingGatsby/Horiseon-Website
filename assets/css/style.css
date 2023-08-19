@@ -26,7 +26,7 @@ body {
 }
 
 /* Removed unnecessary element due to changes in class title in the index */
-.header ul{
+.header ul {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -35,9 +35,9 @@ body {
   list-style-type: none;
 }
 
-.header ul li{
-    display:inline-block;
-    margin-left: 25px;
+.header ul li {
+  display: inline-block;
+  margin-left: 25px;
 }
 
 a {
@@ -86,11 +86,12 @@ p {
   color: #ffffff;
 }
 
-/* Added to adjust benefit section to original dimensions */
-.benefits p{
-    margin-bottom: 32px
+/* Added to adjust benefits section to original dimensions*/
+.benefits p {
+  margin-bottom: 32px;
 }
 
+/* Consolidated sections linked to img/headers in benefits for clarity*/
 .benefits h3 {
   margin-bottom: 10px;
   text-align: center;
