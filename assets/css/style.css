@@ -25,6 +25,7 @@ body {
   color: #d9dcd6;
 }
 
+/* Removed unnecessary element due to changes in class title in the index */
 .header ul{
   padding-top: 15px;
   margin-right: 20px;
@@ -85,6 +86,7 @@ p {
   color: #ffffff;
 }
 
+/* Added to adjust benefit section to original dimensions */
 .benefits p{
     margin-bottom: 32px
 }
